@@ -1,4 +1,4 @@
 # old_pro
-some parallel linear algebra that I wish to revisit some day
+some parallel linear algebra, room for improvement
 
 ### Copyright by Prof. Robert van de Geijn
